@@ -1,16 +1,14 @@
-# Placeholder Alert
-
 ## Alert
-Describe alert here
+[Alert description]
 
 ## Logs Reviewed
-List logs reviewed here
+[Logs checked]
 
 ## Analysis
-Write your analysis here
+[Your analysis]
 
 ## Conclusion
-State your conclusion here
+[Outcome]
 
 ## Action
-Recommended action
+[Recommended action]
