@@ -26,4 +26,4 @@ I found the value that Windows uses to identify itself on the network. Seeing th
 SCREENSHOT LINK BELOW:-
 https://drive.google.com/file/d/1_9rMGl7fjeIkWzmOs_zFQwl2hIHzLMZa/view?usp=drive_link
 
-Hostname: HELPDESK
+Hostname: HELPDESK    
